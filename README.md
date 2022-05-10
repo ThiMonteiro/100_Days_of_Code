@@ -16,3 +16,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/03%20Day
 
 Dia 4: Randomização e listas Python:
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/04%20Day
+
+Dia 5: Loops em Python:
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/05%20Day
