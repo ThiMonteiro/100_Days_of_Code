@@ -19,3 +19,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/04%20Day
 
 Dia 5: Loops em Python:
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/05%20Day
+
+Dia 7: Hangman
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/07%20Day
