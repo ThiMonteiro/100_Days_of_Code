@@ -22,3 +22,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/05%20Day
 
 Dia 7: Hangman
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/07%20Day
+
+Dia 8: Parâmetros de função e cifra de César
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/08%20Day
