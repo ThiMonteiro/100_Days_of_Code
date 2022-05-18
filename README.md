@@ -25,3 +25,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/07%20Day
 
 Dia 8: Parâmetros de função e cifra de César
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/08%20Day
+
+Dia 09: Dicionários, Nesting e o Leilão Secreto
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/09%20Day
