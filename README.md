@@ -28,3 +28,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/08%20Day
 
 Dia 09: Dicionários, Nesting e o Leilão Secreto
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/09%20Day
+
+Dia 10: Funções com Saídas
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/10%20Day
