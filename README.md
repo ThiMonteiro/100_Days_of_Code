@@ -35,3 +35,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/10%20Day
 Dia 11: O Projeto Blackjack Capstone
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/11%20Day
 
+Dia 12: Jogo de adivinhação de escopo e número
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/12%20Day
+
