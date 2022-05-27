@@ -39,5 +39,5 @@ Dia 12: Jogo de adivinhação de escopo e número
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/12%20Day
 
 Dia 13: Depuração - como encontrar e corrigir erros em seu código
-
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/13%20Day
 
