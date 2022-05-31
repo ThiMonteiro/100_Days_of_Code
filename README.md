@@ -44,5 +44,5 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/13%20Day
 Dia 14: Projeto de jogo superior inferior
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/14%20Day
 
-Dia 15: Programação Orientada a Objetos (POO)
+Dia 15: Configuração do ambiente de desenvolvimento local e a máquina de café
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/15%20Day
