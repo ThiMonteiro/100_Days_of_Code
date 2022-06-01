@@ -46,3 +46,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/14%20Day
 
 Dia 15: Configuração do ambiente de desenvolvimento local e a máquina de café
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/15%20Day
+
+Dia 16: Programação Orientada a Objetos (POO)
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/16%20Day
