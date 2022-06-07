@@ -55,3 +55,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/17%20Day
 
 Dia 18: Turtle e a Interface Gráfica do Usuário (GUI)
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/18%20Day
+
+Dia 19: Instâncias, estado e funções de ordem superior
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/19%20Day
