@@ -52,3 +52,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/16%20Day
 
 Dia 17: O projeto Quiz e os benefícios da POO
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/17%20Day
+
+Dia 18: Turtle e a Interface Gráfica do Usuário (GUI)
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/18%20Day
