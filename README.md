@@ -61,3 +61,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/19%20Day
 
 Dia 20: Construa o Jogo da Cobra Parte 1: Animação e Coordenadas
 https://github.com/ThiMonteiro/100-Days-of-Code/blob/master/20%20Day/snake_game%20-%20part%201.py
+
+Dia 21: Construa o Jogo da Cobra Parte 2: Herança e Divisão de Listas
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/21%20Day
