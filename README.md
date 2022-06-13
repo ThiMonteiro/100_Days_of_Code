@@ -64,3 +64,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/blob/master/20%20Day/snake_game%
 
 Dia 21: Construa o Jogo da Cobra Parte 2: Herança e Divisão de Listas
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/21%20Day
+
+Dia 22: Build Pong: O famoso jogo de arcade
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/22%20Day
