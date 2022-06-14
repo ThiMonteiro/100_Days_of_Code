@@ -67,3 +67,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/21%20Day
 
 Dia 22: Build Pong: O famoso jogo de arcade
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/22%20Day
+
+Dia 23: O Projeto Capstone da Travessia da Tartaruga
+https://github.com/ThiMonteiro/100-Days-of-Code/blob/master/23%20Day/main.py
