@@ -70,3 +70,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/22%20Day
 
 Dia 23: O Projeto Capstone da Travessia da Tartaruga
 https://github.com/ThiMonteiro/100-Days-of-Code/blob/master/23%20Day/main.py
+
+Dia 24: Arquivos, diretórios e caminhos
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/24%20Day
