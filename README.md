@@ -73,3 +73,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/blob/master/23%20Day/main.py
 
 Dia 24: Arquivos, diretórios e caminhos
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/24%20Day
+
+Dia 25: Trabalhando com dados CSV e a biblioteca Pandas
+https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/25%20Day
