@@ -79,3 +79,6 @@ https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/25%20Day
 
 Dia 26: Compreensão da lista e o alfabeto da OTAN
 https://github.com/ThiMonteiro/100-Days-of-Code/tree/master/26%20Day
+
+Dia 27: Tkinter, * args, ** kwargs e Criação de programas GUI
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/27%20Day
