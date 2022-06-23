@@ -88,3 +88,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/blob/master/28%20Day/main.py
 
 Dia 29: Criando um aplicativo GUI do gerenciador de senhas com o Tkinter
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/29%20Day
+
+Dia 30: Erros, exceções e dados JSON: melhorando a senha
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/30%20Day
