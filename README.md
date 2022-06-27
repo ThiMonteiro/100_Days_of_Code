@@ -91,3 +91,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/29%20Day
 
 Dia 30: Erros, exceções e dados JSON: melhorando a senha
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/30%20Day
+
+Dia 31: Projeto Capstone do aplicativo Flash Card
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/31%20Day
