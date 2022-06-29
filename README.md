@@ -94,3 +94,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/30%20Day
 
 Dia 31: Projeto Capstone do aplicativo Flash Card
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/31%20Day
+
+Dia 32: Enviar e-mail (smtplib) e gerenciar datas (datetime)
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/32%20Day
