@@ -97,3 +97,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/31%20Day
 
 Dia 32: Enviar e-mail (smtplib) e gerenciar datas (datetime)
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/32%20Day
+
+Dia 33: Endpoints de API e parâmetros de API - Notificador de sobrecarga do ISS
+https://github.com/ThiMonteiro/100_Days_of_Code/blob/master/33%20Day/main.py
