@@ -100,3 +100,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/32%20Day
 
 Dia 33: Endpoints de API e parâmetros de API - Notificador de sobrecarga do ISS
 https://github.com/ThiMonteiro/100_Days_of_Code/blob/master/33%20Day/main.py
+
+Dia 34: Prática de API - Criando um aplicativo de teste de GUI
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/34%20Day
