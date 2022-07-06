@@ -103,3 +103,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/blob/master/33%20Day/main.py
 
 Dia 34: Prática de API - Criando um aplicativo de teste de GUI
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/34%20Day
+
+Dia 35: Chaves, Autenticação e Variáveis de Ambiente: Enviar SMS
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/35%20Day
