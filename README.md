@@ -106,3 +106,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/34%20Day
 
 Dia 35: Chaves, Autenticação e Variáveis de Ambiente: Enviar SMS
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/35%20Day
+
+Dia 36: Projeto de Novo Alerta de Negociação de Ações
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/36%20Day
