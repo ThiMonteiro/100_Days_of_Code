@@ -109,3 +109,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/35%20Day
 
 Dia 36: Projeto de Novo Alerta de Negociação de Ações
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/36%20Day
+
+Dia 37: Projeto de rastreamento de hábitos: solicitações e cabeçalhos de postagem da API
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/37%20Day
