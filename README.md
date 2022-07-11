@@ -112,3 +112,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/36%20Day
 
 Dia 37: Projeto de rastreamento de hábitos: solicitações e cabeçalhos de postagem da API
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/37%20Day
+
+Dia 38: Acompanhamento de exercícios usando o Planilhas Google
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/38%20Day
