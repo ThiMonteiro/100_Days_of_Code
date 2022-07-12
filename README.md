@@ -115,3 +115,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/37%20Day
 
 Dia 38: Acompanhamento de exercícios usando o Planilhas Google
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/38%20Day
+
+Dia 39: Capstone Parte 1: Localizador de Ofertas de Voos
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/39%20Day
