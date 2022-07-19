@@ -121,3 +121,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/39%20Day
 
 Dia 40: Capstone Parte 2: Clube de Voo
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/40%20Day
+
+Dia 41: Fundamentos Web - Introdução ao HTML
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/41%20Day
