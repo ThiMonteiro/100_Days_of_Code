@@ -127,3 +127,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/41%20Day
 
 Dia 42: Fundação Web - HTML intermediário
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/42%20Day
+
+Dia 43: Fundação Web - Introdução ao CSS
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/43%20Day
