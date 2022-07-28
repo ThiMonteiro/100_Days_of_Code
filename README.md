@@ -133,3 +133,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/43%20Day
 
 Dia 44: Fundação Web - CSS intermediário
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/44%20Day/CSS%20-%20My%20Site
+
+Dia 45: Raspagem da Web com Sopa Linda
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/45%20Day
