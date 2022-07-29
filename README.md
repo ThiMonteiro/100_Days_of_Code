@@ -136,3 +136,6 @@ https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/44%20Day/CSS%20-%20M
 
 Dia 45: Raspagem da Web com Sopa Linda
 https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/45%20Day
+
+Dia 46: Crie uma lista de reprodução do Spotify usando o Musical Time Machine
+https://github.com/ThiMonteiro/100_Days_of_Code/tree/master/46%20Day
